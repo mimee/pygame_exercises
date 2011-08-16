@@ -1,0 +1,6 @@
+.coverage
+*.py[oc]
+*.db
+*.sqlite
+*.mo
+
